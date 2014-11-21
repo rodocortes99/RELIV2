@@ -1,0 +1,73 @@
+G:\REPORTE RELIV\RELIV\RELIV\obj\x86\Debug\RELIV.exe
+G:\REPORTE RELIV\RELIV\RELIV\obj\x86\Debug\RELIV.pdb
+G:\REPORTE RELIV\RELIV\RELIV\obj\x86\Debug\RELIV.csprojResolveAssemblyReference.cache
+G:\REPORTE RELIV\RELIV\RELIV\obj\x86\Debug\RELIV.frmPrincipal.resources
+G:\REPORTE RELIV\RELIV\RELIV\obj\x86\Debug\RELIV.Properties.Resources.resources
+G:\REPORTE RELIV\RELIV\RELIV\obj\x86\Debug\RELIV.rptFacturas.resources
+G:\REPORTE RELIV\RELIV\RELIV\obj\x86\Debug\RELIV.csproj.GenerateResource.Cache
+C:\RELIV\RELIV\obj\x86\Debug\RELIV.frmPrincipal.resources
+C:\RELIV\RELIV\obj\x86\Debug\RELIV.Properties.Resources.resources
+C:\RELIV\RELIV\obj\x86\Debug\RELIV.rptFacturas.resources
+C:\RELIV\RELIV\obj\x86\Debug\RELIV.csproj.GenerateResource.Cache
+C:\RELIV\RELIV\bin\Debug\RELIV.exe.config
+C:\RELIV\RELIV\bin\Debug\RELIV.exe
+C:\RELIV\RELIV\bin\Debug\RELIV.pdb
+C:\RELIV\RELIV\bin\Debug\mysql.data.dll
+C:\RELIV\RELIV\obj\x86\Debug\RELIV.csprojResolveAssemblyReference.cache
+C:\RELIV\RELIV\obj\x86\Debug\RELIV.exe
+C:\RELIV\RELIV\obj\x86\Debug\RELIV.pdb
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\bin\Debug\RELIV.exe.config
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\obj\x86\Debug\RELIV.exe
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\obj\x86\Debug\RELIV.pdb
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\bin\Debug\RELIV.exe
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\bin\Debug\RELIV.pdb
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\obj\x86\Debug\RELIV.csprojResolveAssemblyReference.cache
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\obj\x86\Debug\RELIV.frmPrincipal.resources
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\obj\x86\Debug\RELIV.Properties.Resources.resources
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\obj\x86\Debug\RELIV.rptFacturas.resources
+C:\CONECTORES\Resapaldo_Pruebas a Prod\RELIV\RELIV\obj\x86\Debug\RELIV.csproj.GenerateResource.Cache
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\bin\Debug\RELIV.exe.config
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.exe
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.pdb
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\bin\Debug\RELIV.exe
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\bin\Debug\RELIV.pdb
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.csprojResolveAssemblyReference.cache
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.frmPrincipal.resources
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.Properties.Resources.resources
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.rptFacturas.resources
+C:\CONECTORES\Resapaldo_Pruebas a Prod\Reliv6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.csproj.GenerateResource.Cache
+I:\RELIV5-11-14\Reporte6-11-14\RELIV\RELIV\bin\Debug\RELIV.exe.config
+I:\RELIV5-11-14\Reporte6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.exe
+I:\RELIV5-11-14\Reporte6-11-14\RELIV\RELIV\obj\x86\Debug\RELIV.pdb
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\bin\Debug\RELIV.exe.config
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\bin\Debug\RELIV.exe
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\bin\Debug\RELIV.pdb
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\obj\x86\Debug\RELIV.csprojResolveAssemblyReference.cache
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\obj\x86\Debug\RELIV.frmPrincipal.resources
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\obj\x86\Debug\RELIV.Properties.Resources.resources
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\obj\x86\Debug\RELIV.rptFacturas.resources
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\obj\x86\Debug\RELIV.csproj.GenerateResource.Cache
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\obj\x86\Debug\RELIV.exe
+C:\Users\DesarrolloGSM\Documents\Visual Studio 2010\Projects\RELIV\RELIV\obj\x86\Debug\RELIV.pdb
+C:\Users\desarrollo\Desktop\RELIV\RELIV\bin\Debug\RELIV.exe.config
+C:\Users\desarrollo\Desktop\RELIV\RELIV\obj\x86\Debug\RELIV.exe
+C:\Users\desarrollo\Desktop\RELIV\RELIV\obj\x86\Debug\RELIV.pdb
+C:\Users\desarrollo\Desktop\RELIV\RELIV\bin\Debug\RELIV.exe
+C:\Users\desarrollo\Desktop\RELIV\RELIV\bin\Debug\RELIV.pdb
+C:\Users\desarrollo\Desktop\RELIV\RELIV\bin\Debug\mysql.data.dll
+C:\Users\desarrollo\Desktop\RELIV\RELIV\obj\x86\Debug\RELIV.csprojResolveAssemblyReference.cache
+C:\Users\desarrollo\Desktop\RELIV\RELIV\obj\x86\Debug\RELIV.frmPrincipal.resources
+C:\Users\desarrollo\Desktop\RELIV\RELIV\obj\x86\Debug\RELIV.Properties.Resources.resources
+C:\Users\desarrollo\Desktop\RELIV\RELIV\obj\x86\Debug\RELIV.rptFacturas.resources
+C:\Users\desarrollo\Desktop\RELIV\RELIV\obj\x86\Debug\RELIV.csproj.GenerateResource.Cache
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\bin\Debug\RELIV.exe.config
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\obj\x86\Debug\RELIV.exe
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\bin\Debug\RELIV.exe
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\bin\Debug\RELIV.pdb
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\bin\Debug\mysql.data.dll
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\obj\x86\Debug\RELIV.csprojResolveAssemblyReference.cache
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\obj\x86\Debug\RELIV.frmPrincipal.resources
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\obj\x86\Debug\RELIV.Properties.Resources.resources
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\obj\x86\Debug\RELIV.rptFacturas.resources
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\obj\x86\Debug\RELIV.csproj.GenerateResource.Cache
+C:\Users\desarrollo\Desktop\RELIV2\RELIV\obj\x86\Debug\RELIV.pdb

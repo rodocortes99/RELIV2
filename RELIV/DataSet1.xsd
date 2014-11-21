@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="r_facturas" msprop:Generator_TableClassName="r_facturasDataTable" msprop:Generator_TableVarName="tabler_facturas" msprop:Generator_TablePropName="r_facturas" msprop:Generator_RowDeletingName="r_facturasRowDeleting" msprop:Generator_RowChangingName="r_facturasRowChanging" msprop:Generator_RowEvHandlerName="r_facturasRowChangeEventHandler" msprop:Generator_RowDeletedName="r_facturasRowDeleted" msprop:Generator_UserTableName="r_facturas" msprop:Generator_RowChangedName="r_facturasRowChanged" msprop:Generator_RowEvArgName="r_facturasRowChangeEvent" msprop:Generator_RowClassName="r_facturasRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="dfecha" msprop:Generator_ColumnVarNameInTable="columndfecha" msprop:Generator_ColumnPropNameInRow="dfecha" msprop:Generator_ColumnPropNameInTable="dfechaColumn" msprop:Generator_UserColumnName="dfecha" type="xs:string" minOccurs="0" />
+              <xs:element name="ifolio" msprop:Generator_ColumnVarNameInTable="columnifolio" msprop:Generator_ColumnPropNameInRow="ifolio" msprop:Generator_ColumnPropNameInTable="ifolioColumn" msprop:Generator_UserColumnName="ifolio" type="xs:string" minOccurs="0" />
+              <xs:element name="vchNombre" msprop:Generator_ColumnVarNameInTable="columnvchNombre" msprop:Generator_ColumnPropNameInRow="vchNombre" msprop:Generator_ColumnPropNameInTable="vchNombreColumn" msprop:Generator_UserColumnName="vchNombre" type="xs:string" minOccurs="0" />
+              <xs:element name="vchRfcReceptor" msprop:Generator_ColumnVarNameInTable="columnvchRfcReceptor" msprop:Generator_ColumnPropNameInRow="vchRfcReceptor" msprop:Generator_ColumnPropNameInTable="vchRfcReceptorColumn" msprop:Generator_UserColumnName="vchRfcReceptor" type="xs:string" minOccurs="0" />
+              <xs:element name="iNOrden" msprop:Generator_ColumnVarNameInTable="columniNOrden" msprop:Generator_ColumnPropNameInRow="iNOrden" msprop:Generator_ColumnPropNameInTable="iNOrdenColumn" msprop:Generator_UserColumnName="iNOrden" type="xs:string" minOccurs="0" />
+              <xs:element name="fGravado16" msprop:Generator_ColumnVarNameInTable="columnfGravado16" msprop:Generator_ColumnPropNameInRow="fGravado16" msprop:Generator_ColumnPropNameInTable="fGravado16Column" msprop:Generator_UserColumnName="fGravado16" type="xs:decimal" minOccurs="0" />
+              <xs:element name="fGravado0" msprop:Generator_ColumnVarNameInTable="columnfGravado0" msprop:Generator_ColumnPropNameInRow="fGravado0" msprop:Generator_ColumnPropNameInTable="fGravado0Column" msprop:Generator_UserColumnName="fGravado0" type="xs:decimal" minOccurs="0" />
+              <xs:element name="fflete" msprop:Generator_ColumnVarNameInTable="columnfflete" msprop:Generator_ColumnPropNameInRow="fflete" msprop:Generator_ColumnPropNameInTable="ffleteColumn" msprop:Generator_UserColumnName="fflete" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ftotalIVA" msprop:Generator_ColumnVarNameInTable="columnftotalIVA" msprop:Generator_ColumnPropNameInRow="ftotalIVA" msprop:Generator_ColumnPropNameInTable="ftotalIVAColumn" msprop:Generator_UserColumnName="ftotalIVA" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ftotal" msprop:Generator_ColumnVarNameInTable="columnftotal" msprop:Generator_ColumnPropNameInRow="ftotal" msprop:Generator_ColumnPropNameInTable="ftotalColumn" msprop:Generator_UserColumnName="ftotal" type="xs:decimal" minOccurs="0" />
+              <xs:element name="iCancelado" msprop:Generator_ColumnVarNameInTable="columniCancelado" msprop:Generator_ColumnPropNameInRow="iCancelado" msprop:Generator_ColumnPropNameInTable="iCanceladoColumn" msprop:Generator_UserColumnName="iCancelado" type="xs:string" minOccurs="0" />
+              <xs:element name="fDescuento" msprop:Generator_ColumnVarNameInTable="columnfDescuento" msprop:Generator_ColumnPropNameInRow="fDescuento" msprop:Generator_ColumnPropNameInTable="fDescuentoColumn" msprop:Generator_UserColumnName="fDescuento" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Filtros" msprop:Generator_TableClassName="FiltrosDataTable" msprop:Generator_TableVarName="tableFiltros" msprop:Generator_TablePropName="Filtros" msprop:Generator_RowDeletingName="FiltrosRowDeleting" msprop:Generator_RowChangingName="FiltrosRowChanging" msprop:Generator_RowEvHandlerName="FiltrosRowChangeEventHandler" msprop:Generator_RowDeletedName="FiltrosRowDeleted" msprop:Generator_UserTableName="Filtros" msprop:Generator_RowChangedName="FiltrosRowChanged" msprop:Generator_RowEvArgName="FiltrosRowChangeEvent" msprop:Generator_RowClassName="FiltrosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="dfechaInicio" msprop:Generator_ColumnVarNameInTable="columndfechaInicio" msprop:Generator_ColumnPropNameInRow="dfechaInicio" msprop:Generator_ColumnPropNameInTable="dfechaInicioColumn" msprop:Generator_UserColumnName="dfechaInicio" type="xs:string" minOccurs="0" />
+              <xs:element name="dfechaFinal" msprop:Generator_ColumnVarNameInTable="columndfechaFinal" msprop:Generator_ColumnPropNameInRow="dfechaFinal" msprop:Generator_ColumnPropNameInTable="dfechaFinalColumn" msprop:Generator_UserColumnName="dfechaFinal" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
